@@ -1,0 +1,14 @@
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.AssemblyInfoInputs.cache
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.AssemblyInfo.cs
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.csproj.CoreCompileInputs.cache
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/bin/Debug/net8.0/TutorialShapes
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/bin/Debug/net8.0/TutorialShapes.deps.json
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/bin/Debug/net8.0/TutorialShapes.runtimeconfig.json
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/bin/Debug/net8.0/TutorialShapes.dll
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/bin/Debug/net8.0/TutorialShapes.pdb
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.dll
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/refint/TutorialShapes.dll
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.pdb
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/TutorialShapes.genruntimeconfig.cache
+/Users/rubyrover/Desktop/PJATK/2025_winter/BYT/assignment3/assignment3_part1/TutorialShapes/obj/Debug/net8.0/ref/TutorialShapes.dll
